@@ -26,8 +26,8 @@ Exact steps to recreate and deploy the project can be found in [this blogpost](h
     └── src
         ├── __init__.py
         ├── lambda_1
-            ├── __init__.py
-            └── index.py
+        │   ├── __init__.py
+        │   └── index.py
         └── lambda_2
             ├── __init__.py
             └── index.py
